@@ -57,7 +57,7 @@ Hi, I'm Rizvan Khattak
 ### 👨‍💻 Operating System
 
 <p>
-    	<a href="https://github.com/frosty5105"><img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-35495E?style=for-the-badge&logo=Kali%20Linux&logoColor=blue"></a>
+    	<a href="https://github.com/frosty5105"><img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-000000?style=for-the-badge&logo=Kali%20Linux&logoColor=blue"></a>
         <a href="https://github.com/frosty5105"><img alt=Ubuntu" src="https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=Ubuntu"></a>
 	<a href="https://github.com/frosty5105"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=Blue"></a>
 </p>
