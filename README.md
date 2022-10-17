@@ -32,8 +32,8 @@ Hi, I'm Rizvan Khattak
 ### 👨‍💻 Programming Languages
 
 <p>
-    <a href="https://github.com/frosty5105"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Javascript"></a>
-    <a href="https://github.com/frosty5105"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python"</a>
+    <a href="https://github.com/frosty5105"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black"></a>
+    <a href="https://github.com/frosty5105"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=yellow"</a>
     <a href="https://github.com/frosty5105"><img alt="Lua" src="https://img.shields.io/badge/Lua-3776AB?style=for-the-badge&logo=Lua"</a>
     <a href="https://github.com/frosty5105"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-3776AB?style=for-the-badge&logo=Kotlin"</a>
 	    </p>
