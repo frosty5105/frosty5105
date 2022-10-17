@@ -61,4 +61,36 @@ Hi, I'm Rizvan Khattak
         <a href="https://github.com/frosty5105"><img alt=Ubuntu" src="https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=Ubuntu"></a>
 	<a href="https://github.com/frosty5105"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=Blue"></a>
 </p>
+## <a href="https://github.com/frosty5105"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
 
+
+<br/>
+<summary><b>⚡ frosty5105's Stats</b></summary>
+<br/>
+<p align="center">
+	<a href="https://github.com/frosty5105">
+	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=frosty5105&show_icons=true" alt="frosty5105">
+	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=frosty5105" alt="frosty5105">
+	</a>
+	<br/>
+</p>
+<br/>
+<!--
+<summary><b>⚡ Activity graph</b></summary>
+<br/>
+<p align="center">
+	<a href="https://github.com/frosty5105">
+		<img src="https://activity-graph.herokuapp.com/graph?username=frosty5105&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="frosty5105">
+	</a>
+</p>
+<br/>
+-->
+<summary><b>⚡ Top Languages</b></summary>
+<br/>
+
+<p align="center">
+	<a href="https://github.com/frosty5105">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouaskaoun&langs_count=8&layout=compact" alt="frosty5105">
+	</a>
+	<br/>
+<br/>
